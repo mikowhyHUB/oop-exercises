@@ -11,6 +11,7 @@ class Rectangle:
 
     def display(self):
         print('Lenght is:', self.length)
+
         print('Width is:', self.width)
         print('Perimeter is:', self.perimeter())
         print('Area is:', self.area())
