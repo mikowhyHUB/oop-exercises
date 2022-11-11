@@ -24,4 +24,3 @@ class Convert:
         return num_roman
 
 print(Convert().to_roman(1))
-print(4400//1000)
