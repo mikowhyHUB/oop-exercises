@@ -19,7 +19,7 @@ class Alien:
     collision_detection(other): Implementation TBD.
     """
 
-    pass
+    # resolve
 
 
 # TODO:  create the new_aliens_collection() function below to call your Alien class with a list of coordinates.
