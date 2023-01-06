@@ -28,7 +28,7 @@ class Alien:
         Alien.total_aliends_created += 1
 
     def hit(self):
-        Alien.health -= 1
+        self.health -= 1
 
     def is_alive(self):
         return True if self.health > 0 else False
