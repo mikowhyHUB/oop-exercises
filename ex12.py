@@ -10,4 +10,6 @@ class Phone:
 
 
 phone = Phone(2000)
-print(phone.__dict__)
+phone.__dict__
+
+print(phone._price)
